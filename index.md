@@ -20,3 +20,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+-[x] List 1 request!
+-[ ] List 2 request!
+-[x] List 3
